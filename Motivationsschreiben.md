@@ -1,9 +1,19 @@
-Schon während meines Frühstudiums der Informatik traf ich für mich zwei Entscheidungen:
-Informatik zu studieren und Informatik an der TUM zu studieren.
+Dear Sir, Madam,
 
-Von einem Informatikstudium erwarte ich mir einen spannenden, zukunftsorientierten Studiengang – meine Erfahrungen im Bachelorstudiengang überzeugten mich davon, dass ich mit Informatik mein größtes Hobby zu meinem Beruf machen kann. Die gute Zusammenarbeit mit Professoren der TU hat mich immer sehr erfreut. So konnte ich in verschiedenen Ferienakademien und Sommerschulen z.B. in St. Petersburg feststellen, dass ich auch persönlich von den Erfahrungen meiner Professoren profitieren kann. Ich habe es sicher Prof. Bruegge zu verdanken bereits im Bachelor an seinem Lehrstuhl an einem peer-reviewed paper mitschreiben zu können.
-Das der Beruf gute Zukunftsaussichten mit sich bringt und sehr ordentliche Verdienstmöglichkeiten bietet war zwar für die Entscheidung nicht ausschlaggebend, aber doch sehr beruhigend zu wissen und bestärkte mich so in meinem Entschluss.
+With this letter I would hereby like to express my motivation to study Master degree Programme in Data Science offered by The Technical University of Munich, in Germany.
 
-Die Frage nach der Universität war für mich recht schnell geklärt: die lockere, freundliche Atmosphäre mit der wir Schüler bei Ihnen sowohl von Tutoren und Professoren, wie auch von Mitstudenten empfangen worden sind, hat mir sehr zugesagt. Das Ansehen der Universität und Beurteilungen bei Hochschulrankings tun ihr übriges. Für mich von persönlichem Interesse ist auch das Selbstverständnis der TUM als "unternehmerische Universität". Ich studiere nebenbei im Elitestudiengang Technologie-Management am CDTM, was ich für eine wunderbare Einrichtung der TU (und LMU) halte.
-In meinem Auslandssemester in Kalifornien und auch in Deutschland mit Freunden konnte ich andere Universitäten kennen lernen, aber für mich ist die TUM immer noch eine gute Wahl, die ich nicht bereue.
-Ich hoffe ab dem Wintersemester mein Studium an der TUM weiterführen zu können!
+I strongly believe that Germany would be an excellent destination to pursue a master’s degree in Data Science and Data Analytics for graduates who have technical or mathematical problem-solving skills because the curriculum is very well-designed and as per industry requirements.
+
+In my opinion a qualifying University degree along with certifications of the basic technology adopted at the industrial level will be the key criteria for me to become a professional data scientist and data analyst. Now, Germany is widely recognized as IT-hub and there is an increasing demand for graduates in Data Analytics. Therefore, I expect to have a lot of career opportunities to improve my expertise in data analytics and data science on this program.
+
+A master degree course in Data Analytics and Data Science would be an excellent learning platform to master business and data understanding. By studying data analytics in Germany, I will be equipped with the required skills that can support me to become professional data scientist and data analyst in the long run. For example, I will be able to solve complex scientific problems and analyse large data sets using a range of theoretical tools.
+
+Because of my education background in computer science, I am good at computing and mathematics in general and I believe the master in data analytics in Germany is the right choice for me. My future career is being a lecturer with data science and data analytics specialization, so if I have the skills that match with industrial requirements, I will be able to create professionals that match to market needs.
+
+Furthermore, I would be happy to spread word of mouth, about my experiences form participation in the program, and possibly attract more qualified candidates in the future.
+
+Thank you for your time and consideration. I am waiting for your response.
+
+Yours faithfully,
+
+Leonardo Malacara Cruz
